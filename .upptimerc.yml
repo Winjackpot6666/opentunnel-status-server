@@ -3,276 +3,276 @@ owner: roosterkid # Your GitHub organization or username, where this repository 
 repo: opentunnel-status-server # The name of this repository
 
 sites:
-	- name: SSH Singapore SGP 1
-	  url: http://sg-1.opentunnel.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 400
-	- name: SSH United States USA 1
-	  url: http://us-1.opentunnel.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 400
-	- name: SSH Singapore SGS 1
-	  url: http://sggs-1.opentunnel.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 400
-	- name: SSH Germany DE 1
-	  url: http://de-1.opentunnel.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 400
-	- name: SSH Singapore SGP 2
-	  url: http://sg-2.opentunnel.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 400
-	- name: SSH Indonesia ID 1
-	  url: http://id-1.opentunnel.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 400
-	- name: SSH Singapore SGL 1
-	  url: http://sg-3.opentunnel.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 400
-	- name: V2RAY Singapore SGL 1
-	  url: https://sgv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Singapore SGP 1
-	  url: https://sgv-2.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Indonesia IDA 1
-	  url: https://idv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY United States USA 1
-	  url: https://usv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Singapore SGM 1
-	  url: https://sgv-3.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Singapore SGO 1
-	  url: https://sgv-4.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Vietnam VN 1
-	  url: https://vnv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Singapore SGV 1
-	  url: https://sgv-5.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Russia RUL 1
-	  url: https://ruv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Australia AUL 1
-	  url: https://auv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY United States USA 2
-	  url: https://usv-2.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY United States USA 3
-	  url: https://usv-3.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Indonesia IDG 1
-	  url: https://idv-2.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Singapore SGO 2
-	  url: https://sgv-6.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY South Africa ZAP 1
-	  url: https://zav-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Netherlands NLB 6
-	  url: https://nlv-6.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Netherlands NLB 1
-	  url: https://nlv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Germany DEH 1
-	  url: https://dev-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Germany DEH 2
-	  url: https://dev-2.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Hong Kong HKM 1
-	  url: https://hkv-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY United States USA 4
-	  url: https://usv-4.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY Indonesia IDA 2
-	  url: https://idv-3.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: V2RAY South Africa ZAP 2
-	  url: https://zav-2.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Singapore SGL 1
-	  url: https://sgx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Singapore SGO 1
-	  url: https://sgx-2.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY United States USA 1
-	  url: https://usx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY South Korea KRP 1
-	  url: https://krx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Netherlands NLI 1
-	  url: https://nlx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Indonesia IDA 1
-	  url: https://idx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Japan JPP 1
-	  url: https://jpx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Brazil BRP 1
-	  url: https://brx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: TROJAN Singapore SGV 1
-	  url: https://sgt-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: TROJAN Singapore SGP 1
-	  url: https://sgt-2.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: TROJAN Germany DEH 1
-	  url: https://det-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: TROJAN Netherlands NLB 1
-	  url: https://nlt-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: TROJAN Japan JPP 1
-	  url: https://jpt-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: TROJAN United States USO 1
-	  url: https://ust-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: TROJAN Singapore SGA 1
-	  url: https://sgt-3.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Russia RUL 1
-	  url: https://rux-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY Singapore SGD 1
-	  url: https://sgx-3.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: XRAY India IND 1
-	  url: https://inx-1.openv2ray.com/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: OVPN Singapore SGP 1
-	  url: https://sgo-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: OVPN United States USF 1
-	  url: https://uso-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: OVPN Singapore SGS 1
-	  url: https://sgo-2.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: OVPN Germany DEH 1
-	  url: https://deo-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: OVPN Australia AUP 1
-	  url: https://auo-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
-	- name: OVPN France FRO 1
-	  url: https://fro-1.opensvr.net/
-	  maxResponseTime: 5000
-	  expectedStatusCodes:
-	   - 200
+     - name: SSH Singapore SGP 1
+       url: http://sg-1.opentunnel.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+     - name: SSH United States USA 1
+       url: http://us-1.opentunnel.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+     - name: SSH Singapore SGS 1
+       url: http://sggs-1.opentunnel.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+     - name: SSH Germany DE 1
+       url: http://de-1.opentunnel.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+     - name: SSH Singapore SGP 2
+       url: http://sg-2.opentunnel.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+     - name: SSH Indonesia ID 1
+       url: http://id-1.opentunnel.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+     - name: SSH Singapore SGL 1
+       url: http://sg-3.opentunnel.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+     - name: V2RAY Singapore SGL 1
+       url: https://sgv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Singapore SGP 1
+       url: https://sgv-2.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Indonesia IDA 1
+       url: https://idv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY United States USA 1
+       url: https://usv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Singapore SGM 1
+       url: https://sgv-3.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Singapore SGO 1
+       url: https://sgv-4.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Vietnam VN 1
+       url: https://vnv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Singapore SGV 1
+       url: https://sgv-5.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Russia RUL 1
+       url: https://ruv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Australia AUL 1
+       url: https://auv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY United States USA 2
+       url: https://usv-2.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY United States USA 3
+       url: https://usv-3.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Indonesia IDG 1
+       url: https://idv-2.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Singapore SGO 2
+       url: https://sgv-6.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY South Africa ZAP 1
+       url: https://zav-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Netherlands NLB 6
+       url: https://nlv-6.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Netherlands NLB 1
+       url: https://nlv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Germany DEH 1
+       url: https://dev-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Germany DEH 2
+       url: https://dev-2.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Hong Kong HKM 1
+       url: https://hkv-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY United States USA 4
+       url: https://usv-4.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY Indonesia IDA 2
+       url: https://idv-3.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: V2RAY South Africa ZAP 2
+       url: https://zav-2.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Singapore SGL 1
+       url: https://sgx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Singapore SGO 1
+       url: https://sgx-2.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY United States USA 1
+       url: https://usx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY South Korea KRP 1
+       url: https://krx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Netherlands NLI 1
+       url: https://nlx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Indonesia IDA 1
+       url: https://idx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Japan JPP 1
+       url: https://jpx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Brazil BRP 1
+       url: https://brx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: TROJAN Singapore SGV 1
+       url: https://sgt-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: TROJAN Singapore SGP 1
+       url: https://sgt-2.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: TROJAN Germany DEH 1
+       url: https://det-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: TROJAN Netherlands NLB 1
+       url: https://nlt-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: TROJAN Japan JPP 1
+       url: https://jpt-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: TROJAN United States USO 1
+       url: https://ust-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: TROJAN Singapore SGA 1
+       url: https://sgt-3.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Russia RUL 1
+       url: https://rux-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY Singapore SGD 1
+       url: https://sgx-3.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: XRAY India IND 1
+       url: https://inx-1.openv2ray.com/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: OVPN Singapore SGP 1
+       url: https://sgo-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: OVPN United States USF 1
+       url: https://uso-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: OVPN Singapore SGS 1
+       url: https://sgo-2.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: OVPN Germany DEH 1
+       url: https://deo-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: OVPN Australia AUP 1
+       url: https://auo-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: OVPN France FRO 1
+       url: https://fro-1.opensvr.net/
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
