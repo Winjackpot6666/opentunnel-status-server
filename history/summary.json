@@ -580,20 +580,18 @@
     "url": "https://dev-2.openv2ray.com/",
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-germany-deh-2",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 306,
     "timeWeek": 306,
     "timeMonth": 306,
     "timeYear": 306,
-    "dailyMinutesDown": {
-      "2021-04-20": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "V2RAY Hong Kong HKM 1",
