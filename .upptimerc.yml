@@ -422,7 +422,7 @@ status-website:
       href: https://opentunnel.net
     - title: Community
       href: https://forum.opentunnel.net
-	- title: Telegram
+    - title: Telegram
       href: https://t.me/opentunnel_status
   theme: light
   
