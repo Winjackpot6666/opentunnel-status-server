@@ -358,53 +358,53 @@ sites:
         - 400
         - 500
      - name: OVPN 🇸🇬 Singapore SGP 1
-       url: http://sgo-1.opensvr.net:5555/
+       url: http://sgo-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 503
+        - 400
         - 500
      - name: OVPN 🇺🇸 United States USF 1
-       url: http://uso-1.opensvr.net:5555/
+       url: http://uso-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 503
+        - 400
         - 500
      - name: OVPN 🇸🇬 Singapore SGS 1
-       url: http://sgo-2.opensvr.net:5555/
+       url: http://sgo-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 503
+        - 400
         - 500
      - name: OVPN 🇩🇪 Germany DEH 1
-       url: http://deo-1.opensvr.net:5555/
+       url: http://deo-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 503
+        - 400
         - 500
      - name: OVPN 🇦🇺 Australia AUP 1
-       url: http://auo-1.opensvr.net:5555/
+       url: http://auo-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 503
+        - 400
         - 500
      - name: OVPN 🇫🇷 France FRO 1
-       url: http://fro-1.opensvr.net:5555/
+       url: http://fro-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 503
+        - 400
         - 500
      - name: OVPN 🇦🇪 United Arab Emirates AEM 1
-       url: http://aeo-1.opensvr.net:5555/
+       url: http://aeo-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 503
+        - 400
         - 500
 
 status-website:
