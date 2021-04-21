@@ -581,18 +581,18 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-germany-deh-2",
     "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "96.91%",
+    "uptime": "96.57%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.57%",
     "time": 323,
     "timeDay": 323,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2021-04-21": 29
+      "2021-04-21": 33
     }
   },
   {
@@ -763,18 +763,18 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-states-uso-1",
     "status": "up",
-    "uptime": "96.66%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "96.66%",
-    "uptimeYear": "96.66%",
+    "uptime": "94.29%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "94.29%",
     "time": 155,
     "timeDay": 155,
     "timeWeek": 155,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2021-04-21": 31
+      "2021-04-21": 54
     }
   },
   {
@@ -923,7 +923,7 @@
   },
   {
     "name": "OVPN 🇸🇬 Singapore SGP 1",
-    "url": "http://sgo-1.opensvr.net:5555/",
+    "url": "http://sgo-1.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-singapore-sgp-1",
     "status": "up",
@@ -941,7 +941,7 @@
   },
   {
     "name": "OVPN 🇺🇸 United States USF 1",
-    "url": "http://uso-1.opensvr.net:5555/",
+    "url": "http://uso-1.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-united-states-usf-1",
     "status": "up",
@@ -959,7 +959,7 @@
   },
   {
     "name": "OVPN 🇸🇬 Singapore SGS 1",
-    "url": "http://sgo-2.opensvr.net:5555/",
+    "url": "http://sgo-2.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-singapore-sgs-1",
     "status": "up",
@@ -977,7 +977,7 @@
   },
   {
     "name": "OVPN 🇩🇪 Germany DEH 1",
-    "url": "http://deo-1.opensvr.net:5555/",
+    "url": "http://deo-1.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-germany-deh-1",
     "status": "up",
@@ -995,7 +995,7 @@
   },
   {
     "name": "OVPN 🇦🇺 Australia AUP 1",
-    "url": "http://auo-1.opensvr.net:5555/",
+    "url": "http://auo-1.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-australia-aup-1",
     "status": "up",
@@ -1013,7 +1013,7 @@
   },
   {
     "name": "OVPN 🇫🇷 France FRO 1",
-    "url": "http://fro-1.opensvr.net:5555/",
+    "url": "http://fro-1.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-france-fro-1",
     "status": "up",
@@ -1031,22 +1031,22 @@
   },
   {
     "name": "OVPN 🇦🇪 United Arab Emirates AEM 1",
-    "url": "http://aeo-1.opensvr.net:5555/",
+    "url": "http://aeo-1.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-united-arab-emirates-aem-1",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 409,
+    "timeDay": 409,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2021-04-21": 26
+      "2021-04-21": 46
     }
   }
 ]
