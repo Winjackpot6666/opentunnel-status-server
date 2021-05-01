@@ -42,6 +42,13 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
+     - name: XRAY 🇿🇦 South Africa ZAP 1
+       url: https://zax-1.openv2ray.com/
+       icon: https://opentunnel.net/assets/img/xray.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+        - 500
      - name: XRAY 🇰🇷 South Korea KRP 1
        url: https://krx-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
