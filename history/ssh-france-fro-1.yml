@@ -1,7 +1,7 @@
 url: http://fr-1.opentunnel.net/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-05-08T08:13:29.710Z
+status: up
+code: 400
+responseTime: 196
+lastUpdated: 2021-05-08T08:39:33.747Z
 startTime: Mon May 03 2021 03:06:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
