@@ -406,7 +406,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇸🇬 Singapore SGS 1
+     - name: OVPN 🇸🇬 Singapore SGM 1
        url: http://sgo-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
