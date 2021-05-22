@@ -407,22 +407,22 @@ sites:
         - 400
         - 500
      - name: PPTP 🇸🇬 Singapore SGM 1
-       url: https://sgp-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       url: http://sgp-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
      - name: PPTP 🇺🇸 United States USF 1
-       url: https://usp-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       url: http://usp-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
      - name: PPTP 🇮🇩 Indonesia IDB 1
-       url: https://idp-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       url: http://idp-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
