@@ -350,13 +350,6 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇸🇬 Singapore SGS 1
-       url: http://sgs-1.opensvr.net:8080/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
      - name: SSH 🇩🇪 Germany DEH 1
        url: http://des-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
@@ -401,6 +394,34 @@ sites:
         - 500
      - name: SSH 🇸🇬 Singapore SGD 1
        url: http://sgs-5.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇮🇩 Indonesia IDA 1
+       url: http://ids-2.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇮🇳 India IND 1
+       url: http://ins-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇺🇸 United States USI 1
+       url: http://uss-2.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇩🇪 Germany DEH 2
+       url: http://des-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
        expectedStatusCodes:
