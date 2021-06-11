@@ -150,19 +150,19 @@
     "url": "https://krx-1.openv2ray.com/",
     "icon": "https://opentunnel.net/assets/img/xray.png",
     "slug": "xray-south-korea-krp-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 580,
-    "timeDay": 525,
-    "timeWeek": 549,
-    "timeMonth": 563,
+    "timeDay": 577,
+    "timeWeek": 559,
+    "timeMonth": 565,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2021-06-11": 1
+      "2021-06-11": 17
     }
   },
   {
