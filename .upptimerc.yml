@@ -448,6 +448,20 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
+     - name: PPTP 🇮🇩 Indonesia IDT 1
+       url: http://idp-2.opensvr.net/
+       icon: https://opentunnel.net/assets/img/ppp.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+        - 500
+     - name: PPTP 🇹🇷 Turkey TRC 1
+       url: http://trp-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/ppp.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+        - 500
      - name: OVPN 🇸🇬 Singapore SGP 1
        url: http://sgo-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
@@ -506,6 +520,13 @@ sites:
         - 500
      - name: OVPN 🇮🇩 Indonesia IDB 1
        url: http://ido-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/openvpn.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: OVPN 🇹🇷 Turkey TRC 1
+       url: http://tro-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
