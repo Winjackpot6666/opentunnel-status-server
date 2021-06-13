@@ -193,16 +193,18 @@
     "slug": "xray-indonesia-ida-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 528,
-    "timeWeek": 622,
-    "timeMonth": 680,
-    "timeYear": 690,
-    "dailyMinutesDown": {}
+    "time": 800,
+    "timeDay": 2944,
+    "timeWeek": 1407,
+    "timeMonth": 890,
+    "timeYear": 800,
+    "dailyMinutesDown": {
+      "2021-06-13": 1
+    }
   },
   {
     "name": "XRAY 🇯🇵 Japan JPP 1",
@@ -502,7 +504,7 @@
     "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.28%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "98.11%",
     "time": 671,
     "timeDay": 509,
@@ -1097,11 +1099,11 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-united-states-usf-1",
     "status": "up",
-    "uptime": "94.01%",
+    "uptime": "94.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.89%",
-    "uptimeYear": "94.01%",
+    "uptimeYear": "94.02%",
     "time": 137,
     "timeDay": 100,
     "timeWeek": 110,
@@ -1254,7 +1256,7 @@
     "status": "up",
     "uptime": "99.52%",
     "uptimeDay": "97.77%",
-    "uptimeWeek": "99.30%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
     "time": 98,
@@ -1415,6 +1417,42 @@
     "dailyMinutesDown": {
       "2021-06-09": 32
     }
+  },
+  {
+    "name": "PPTP 🇮🇩 Indonesia IDT 1",
+    "url": "http://idp-2.opensvr.net/",
+    "icon": "https://opentunnel.net/assets/img/ppp.png",
+    "slug": "pptp-indonesia-idt-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1357,
+    "timeDay": 1357,
+    "timeWeek": 1357,
+    "timeMonth": 1357,
+    "timeYear": 1357,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "PPTP 🇹🇷 Turkey TRC 1",
+    "url": "http://trp-1.opensvr.net/",
+    "icon": "https://opentunnel.net/assets/img/ppp.png",
+    "slug": "pptp-turkey-trc-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 256,
+    "timeDay": 256,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
+    "dailyMinutesDown": {}
   },
   {
     "name": "OVPN 🇸🇬 Singapore SGP 1",
@@ -1590,5 +1628,23 @@
       "2021-06-09": 32,
       "2021-05-29": 52
     }
+  },
+  {
+    "name": "OVPN 🇹🇷 Turkey TRC 1",
+    "url": "http://tro-1.opensvr.net:8080/",
+    "icon": "https://opentunnel.net/assets/img/openvpn.png",
+    "slug": "ovpn-turkey-trc-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 262,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
+    "dailyMinutesDown": {}
   }
 ]
