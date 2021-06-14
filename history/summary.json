@@ -13,7 +13,7 @@
     "time": 547,
     "timeDay": 288,
     "timeWeek": 398,
-    "timeMonth": 496,
+    "timeMonth": 501,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2021-04-28": 27,
@@ -35,7 +35,7 @@
     "time": 1023,
     "timeDay": 456,
     "timeWeek": 593,
-    "timeMonth": 523,
+    "timeMonth": 527,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2021-04-28": 26,
@@ -56,7 +56,7 @@
     "time": 341,
     "timeDay": 265,
     "timeWeek": 365,
-    "timeMonth": 330,
+    "timeMonth": 332,
     "timeYear": 341,
     "dailyMinutesDown": {}
   },
@@ -74,7 +74,7 @@
     "time": 680,
     "timeDay": 612,
     "timeWeek": 637,
-    "timeMonth": 662,
+    "timeMonth": 660,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2021-06-14": 31,
@@ -99,7 +99,7 @@
     "time": 738,
     "timeDay": 721,
     "timeWeek": 684,
-    "timeMonth": 692,
+    "timeMonth": 691,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2021-06-11": 187,
@@ -120,7 +120,7 @@
     "time": 207,
     "timeDay": 130,
     "timeWeek": 175,
-    "timeMonth": 218,
+    "timeMonth": 221,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2021-06-13": 42,
@@ -134,14 +134,14 @@
     "slug": "xray-south-africa-zap-1",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "90.21%",
+    "uptimeDay": "90.87%",
     "uptimeWeek": "96.39%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.86%",
     "time": 823,
     "timeDay": 755,
     "timeWeek": 865,
-    "timeMonth": 834,
+    "timeMonth": 836,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2021-06-14": 96,
@@ -164,7 +164,7 @@
     "time": 577,
     "timeDay": 592,
     "timeWeek": 542,
-    "timeMonth": 555,
+    "timeMonth": 553,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2021-06-11": 17
@@ -184,7 +184,7 @@
     "time": 346,
     "timeDay": 287,
     "timeWeek": 383,
-    "timeMonth": 358,
+    "timeMonth": 360,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2021-05-17": 197
@@ -195,19 +195,19 @@
     "url": "https://idx-1.openv2ray.com/",
     "icon": "https://opentunnel.net/assets/img/xray.png",
     "slug": "xray-indonesia-ida-1",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 830,
-    "timeDay": 2840,
-    "timeWeek": 1550,
-    "timeMonth": 947,
-    "timeYear": 830,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 841,
+    "timeDay": 2204,
+    "timeWeek": 1551,
+    "timeMonth": 972,
+    "timeYear": 841,
     "dailyMinutesDown": {
-      "2021-06-14": 18
+      "2021-06-14": 27
     }
   },
   {
@@ -224,7 +224,7 @@
     "time": 443,
     "timeDay": 485,
     "timeWeek": 392,
-    "timeMonth": 415,
+    "timeMonth": 413,
     "timeYear": 443,
     "dailyMinutesDown": {}
   },
@@ -242,7 +242,7 @@
     "time": 506,
     "timeDay": 355,
     "timeWeek": 499,
-    "timeMonth": 543,
+    "timeMonth": 548,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2021-05-25": 91,
@@ -263,7 +263,7 @@
     "time": 597,
     "timeDay": 593,
     "timeWeek": 601,
-    "timeMonth": 587,
+    "timeMonth": 588,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2021-06-14": 31,
@@ -288,7 +288,7 @@
     "time": 756,
     "timeDay": 465,
     "timeWeek": 693,
-    "timeMonth": 744,
+    "timeMonth": 743,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2021-06-12": 30
@@ -329,7 +329,7 @@
     "time": 354,
     "timeDay": 305,
     "timeWeek": 384,
-    "timeMonth": 364,
+    "timeMonth": 365,
     "timeYear": 354,
     "dailyMinutesDown": {}
   },
@@ -347,7 +347,7 @@
     "time": 140,
     "timeDay": 74,
     "timeWeek": 176,
-    "timeMonth": 155,
+    "timeMonth": 157,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -365,7 +365,7 @@
     "time": 660,
     "timeDay": 694,
     "timeWeek": 613,
-    "timeMonth": 640,
+    "timeMonth": 638,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2021-05-06": 30,
@@ -398,19 +398,19 @@
     "url": "https://idv-1.openv2ray.com/",
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-indonesia-ida-1",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.92%",
-    "time": 760,
-    "timeDay": 834,
-    "timeWeek": 794,
-    "timeMonth": 742,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.91%",
+    "time": 796,
+    "timeDay": 1588,
+    "timeWeek": 1003,
+    "timeMonth": 812,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2021-06-14": 41,
+      "2021-06-14": 50,
       "2021-06-12": 25
     }
   },
@@ -428,7 +428,7 @@
     "time": 166,
     "timeDay": 131,
     "timeWeek": 149,
-    "timeMonth": 177,
+    "timeMonth": 178,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2021-05-04": 22
@@ -448,7 +448,7 @@
     "time": 703,
     "timeDay": 745,
     "timeWeek": 654,
-    "timeMonth": 673,
+    "timeMonth": 670,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2021-05-22": 123,
@@ -471,7 +471,7 @@
     "time": 781,
     "timeDay": 703,
     "timeWeek": 649,
-    "timeMonth": 776,
+    "timeMonth": 714,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2021-06-11": 178,
@@ -492,7 +492,7 @@
     "time": 973,
     "timeDay": 729,
     "timeWeek": 1045,
-    "timeMonth": 1145,
+    "timeMonth": 1158,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2021-05-29": 136,
@@ -515,7 +515,7 @@
     "time": 672,
     "timeDay": 681,
     "timeWeek": 613,
-    "timeMonth": 643,
+    "timeMonth": 639,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2021-06-13": 34,
@@ -542,7 +542,7 @@
     "time": 531,
     "timeDay": 397,
     "timeWeek": 496,
-    "timeMonth": 476,
+    "timeMonth": 478,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2021-06-13": 33,
@@ -567,7 +567,7 @@
     "time": 600,
     "timeDay": 631,
     "timeWeek": 567,
-    "timeMonth": 580,
+    "timeMonth": 578,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2021-06-13": 33,
@@ -589,7 +589,7 @@
     "time": 217,
     "timeDay": 512,
     "timeWeek": 198,
-    "timeMonth": 244,
+    "timeMonth": 248,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2021-05-04": 45
@@ -609,7 +609,7 @@
     "time": 253,
     "timeDay": 142,
     "timeWeek": 157,
-    "timeMonth": 162,
+    "timeMonth": 163,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2021-05-04": 25
@@ -629,7 +629,7 @@
     "time": 770,
     "timeDay": 1416,
     "timeWeek": 962,
-    "timeMonth": 821,
+    "timeMonth": 823,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2021-06-12": 32,
@@ -657,7 +657,7 @@
     "time": 718,
     "timeDay": 726,
     "timeWeek": 648,
-    "timeMonth": 710,
+    "timeMonth": 654,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2021-06-11": 160,
@@ -678,7 +678,7 @@
     "time": 826,
     "timeDay": 747,
     "timeWeek": 816,
-    "timeMonth": 804,
+    "timeMonth": 805,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2021-06-10": 17,
@@ -701,7 +701,7 @@
     "time": 338,
     "timeDay": 283,
     "timeWeek": 366,
-    "timeMonth": 346,
+    "timeMonth": 348,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -719,7 +719,7 @@
     "time": 402,
     "timeDay": 284,
     "timeWeek": 362,
-    "timeMonth": 349,
+    "timeMonth": 351,
     "timeYear": 402,
     "dailyMinutesDown": {}
   },
@@ -737,7 +737,7 @@
     "time": 355,
     "timeDay": 301,
     "timeWeek": 380,
-    "timeMonth": 362,
+    "timeMonth": 365,
     "timeYear": 355,
     "dailyMinutesDown": {}
   },
@@ -755,7 +755,7 @@
     "time": 546,
     "timeDay": 301,
     "timeWeek": 386,
-    "timeMonth": 365,
+    "timeMonth": 367,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2021-05-03": 29,
@@ -783,7 +783,7 @@
     "time": 618,
     "timeDay": 671,
     "timeWeek": 549,
-    "timeMonth": 586,
+    "timeMonth": 582,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2021-05-08": 314
@@ -828,7 +828,7 @@
     "time": 755,
     "timeDay": 1917,
     "timeWeek": 903,
-    "timeMonth": 807,
+    "timeMonth": 809,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2021-06-14": 23,
@@ -849,7 +849,7 @@
     "time": 873,
     "timeDay": 741,
     "timeWeek": 1055,
-    "timeMonth": 855,
+    "timeMonth": 858,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2021-05-22": 558,
@@ -871,7 +871,7 @@
     "time": 979,
     "timeDay": 740,
     "timeWeek": 844,
-    "timeMonth": 1036,
+    "timeMonth": 1043,
     "timeYear": 979,
     "dailyMinutesDown": {
       "2021-06-14": 73,
@@ -902,7 +902,7 @@
     "time": 1018,
     "timeDay": 1455,
     "timeWeek": 938,
-    "timeMonth": 1149,
+    "timeMonth": 1158,
     "timeYear": 1018,
     "dailyMinutesDown": {
       "2021-06-13": 22,
@@ -934,7 +934,7 @@
     "time": 369,
     "timeDay": 303,
     "timeWeek": 408,
-    "timeMonth": 389,
+    "timeMonth": 391,
     "timeYear": 369,
     "dailyMinutesDown": {}
   },
@@ -952,7 +952,7 @@
     "time": 345,
     "timeDay": 289,
     "timeWeek": 386,
-    "timeMonth": 363,
+    "timeMonth": 365,
     "timeYear": 345,
     "dailyMinutesDown": {}
   },
@@ -993,7 +993,7 @@
     "time": 421,
     "timeDay": 131,
     "timeWeek": 324,
-    "timeMonth": 625,
+    "timeMonth": 636,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2021-06-09": 92,
@@ -1034,7 +1034,7 @@
     "time": 758,
     "timeDay": 598,
     "timeWeek": 691,
-    "timeMonth": 786,
+    "timeMonth": 788,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2021-06-14": 30,
@@ -1067,7 +1067,7 @@
     "time": 1590,
     "timeDay": 1254,
     "timeWeek": 1394,
-    "timeMonth": 1861,
+    "timeMonth": 1887,
     "timeYear": 1590,
     "dailyMinutesDown": {
       "2021-06-14": 35,
@@ -1097,7 +1097,7 @@
     "time": 458,
     "timeDay": 479,
     "timeWeek": 411,
-    "timeMonth": 432,
+    "timeMonth": 430,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2021-06-08": 35,
@@ -1122,7 +1122,7 @@
     "time": 137,
     "timeDay": 149,
     "timeWeek": 116,
-    "timeMonth": 129,
+    "timeMonth": 128,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2021-06-03": 701,
@@ -1156,7 +1156,7 @@
     "time": 240,
     "timeDay": 198,
     "timeWeek": 254,
-    "timeMonth": 245,
+    "timeMonth": 246,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2021-05-26": 339,
@@ -1181,7 +1181,7 @@
     "time": 448,
     "timeDay": 466,
     "timeWeek": 394,
-    "timeMonth": 422,
+    "timeMonth": 420,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2021-06-11": 30,
@@ -1204,7 +1204,7 @@
     "time": 758,
     "timeDay": 508,
     "timeWeek": 452,
-    "timeMonth": 756,
+    "timeMonth": 765,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2021-06-09": 33,
@@ -1226,7 +1226,7 @@
     "time": 437,
     "timeDay": 399,
     "timeWeek": 419,
-    "timeMonth": 424,
+    "timeMonth": 422,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2021-06-14": 30,
@@ -1254,7 +1254,7 @@
     "time": 232,
     "timeDay": 248,
     "timeWeek": 254,
-    "timeMonth": 243,
+    "timeMonth": 244,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2021-06-14": 34,
@@ -1441,11 +1441,11 @@
     "icon": "https://opentunnel.net/assets/img/ppp.png",
     "slug": "pptp-indonesia-idt-1",
     "status": "up",
-    "uptime": "90.74%",
+    "uptime": "90.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.74%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "90.74%",
+    "uptimeWeek": "90.78%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "90.78%",
     "time": 712,
     "timeDay": 486,
     "timeWeek": 712,
@@ -1461,11 +1461,11 @@
     "icon": "https://opentunnel.net/assets/img/ppp.png",
     "slug": "pptp-turkey-trc-1",
     "status": "up",
-    "uptime": "95.52%",
+    "uptime": "95.54%",
     "uptimeDay": "93.81%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "95.52%",
-    "uptimeYear": "95.52%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
     "time": 267,
     "timeDay": 269,
     "timeWeek": 267,
@@ -1489,7 +1489,7 @@
     "time": 449,
     "timeDay": 484,
     "timeWeek": 402,
-    "timeMonth": 424,
+    "timeMonth": 422,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2021-04-29": 336,
@@ -1528,7 +1528,7 @@
     "time": 445,
     "timeDay": 511,
     "timeWeek": 423,
-    "timeMonth": 448,
+    "timeMonth": 445,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
@@ -1546,7 +1546,7 @@
     "time": 232,
     "timeDay": 201,
     "timeWeek": 254,
-    "timeMonth": 241,
+    "timeMonth": 242,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -1564,7 +1564,7 @@
     "time": 449,
     "timeDay": 447,
     "timeWeek": 397,
-    "timeMonth": 403,
+    "timeMonth": 402,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2021-05-22": 232,
@@ -1585,7 +1585,7 @@
     "time": 239,
     "timeDay": 198,
     "timeWeek": 250,
-    "timeMonth": 239,
+    "timeMonth": 240,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -1603,7 +1603,7 @@
     "time": 427,
     "timeDay": 392,
     "timeWeek": 447,
-    "timeMonth": 436,
+    "timeMonth": 437,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2021-05-24": 247,
@@ -1625,7 +1625,7 @@
     "time": 492,
     "timeDay": 457,
     "timeWeek": 471,
-    "timeMonth": 487,
+    "timeMonth": 486,
     "timeYear": 492,
     "dailyMinutesDown": {}
   },
@@ -1643,7 +1643,7 @@
     "time": 873,
     "timeDay": 1462,
     "timeWeek": 1181,
-    "timeMonth": 961,
+    "timeMonth": 975,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2021-06-09": 32,
@@ -1656,11 +1656,11 @@
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-turkey-trc-1",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.56%",
     "uptimeDay": "93.84%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "95.54%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
     "time": 270,
     "timeDay": 272,
     "timeWeek": 270,
