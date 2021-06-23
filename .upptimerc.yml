@@ -147,7 +147,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGM 1
+     - name: V2RAY 🇸🇬 Singapore SGD 1
        url: https://sgv-3.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -329,7 +329,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: TROJAN 🇮🇩 Indonesia IDB 1
+     - name: TROJAN 🇮🇩 Indonesia IDJ 1
        url: https://idt-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/trojan.png
        maxResponseTime: 5000
@@ -427,7 +427,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: PPTP 🇸🇬 Singapore SGM 1
+     - name: PPTP 🇸🇬 Singapore SGD 1
        url: http://sgp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
@@ -448,7 +448,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: PPTP 🇮🇩 Indonesia IDT 1
+     - name: PPTP 🇮🇩 Indonesia IDJ 1
        url: http://idp-2.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
