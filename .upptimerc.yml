@@ -504,8 +504,8 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇦🇪 United Arab Emirates AEM 1
-       url: http://aeo-1.opensvr.net:8080/
+     - name: OVPN 🇺🇸 United States USQ 1
+       url: http://uso-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
