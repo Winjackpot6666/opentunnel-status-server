@@ -427,6 +427,13 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+     - name: SSH 🇫🇷 France FRO 2
+       url: http://frs-2.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
      - name: PPTP 🇸🇬 Singapore SGD 1
        url: http://sgp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
@@ -441,8 +448,8 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: PPTP 🇮🇩 Indonesia IDB 1
-       url: http://idp-1.opensvr.net/
+     - name: PPTP 🇫🇷 France FRO 1
+       url: http://frp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -457,6 +464,13 @@ sites:
         - 500
      - name: PPTP 🇹🇷 Turkey TRC 1
        url: http://trp-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/ppp.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+        - 500
+     - name: PPTP 🇻🇳 Vietnam VNV 1
+       url: http://vnp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -518,7 +532,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇮🇩 Indonesia IDB 1
+     - name: OVPN 🇮🇩 Indonesia IDJ 1
        url: http://ido-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
