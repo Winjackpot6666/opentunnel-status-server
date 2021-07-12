@@ -364,7 +364,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇮🇩 Indonesia IDB 1
+     - name: SSH 🇮🇩 Indonesia IDJ 1
        url: http://ids-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
