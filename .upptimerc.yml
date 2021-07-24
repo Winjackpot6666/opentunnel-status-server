@@ -217,13 +217,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇿🇦 South Africa ZAP 1
-       url: https://zav-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/V2Ray-icon.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: V2RAY 🇳🇱 Netherlands NLB 6
        url: https://nlv-6.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
@@ -490,7 +483,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇸🇬 Singapore SGM 1
+     - name: OVPN 🇸🇬 Singapore SGD 1
        url: http://sgo-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
@@ -525,7 +518,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇸🇬 Singapore SGD 1
+     - name: OVPN 🇸🇬 Singapore SGD 2
        url: http://sgo-3.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
