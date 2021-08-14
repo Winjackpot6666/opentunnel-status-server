@@ -1,7 +1,7 @@
 url: https://idt-1.opensvr.net/
-status: degraded
+status: up
 code: 200
-responseTime: 21633
-lastUpdated: 2021-08-14T04:01:32.933Z
+responseTime: 717
+lastUpdated: 2021-08-14T04:32:08.529Z
 startTime: Wed Jun 23 2021 05:56:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
