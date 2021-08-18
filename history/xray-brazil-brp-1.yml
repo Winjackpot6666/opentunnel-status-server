@@ -1,7 +1,7 @@
 url: https://brx-1.openv2ray.com/
-status: up
+status: degraded
 code: 200
-responseTime: 398
-lastUpdated: 2021-08-17T23:12:44.398Z
+responseTime: 20860
+lastUpdated: 2021-08-18T10:26:06.592Z
 startTime: Tue Apr 20 2021 17:07:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
