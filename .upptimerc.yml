@@ -434,6 +434,20 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+     - name: SSH 🇧🇬 Bulgaria BGI 1
+       url: http://bgs-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇺🇦 Ukraine UAI 1
+       url: http://uas-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
      - name: PPTP 🇸🇬 Singapore SGD 1
        url: http://sgp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
