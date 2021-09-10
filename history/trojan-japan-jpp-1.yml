@@ -1,7 +1,7 @@
 url: https://jpt-1.opensvr.net/
-status: up
+status: degraded
 code: 200
-responseTime: 496
-lastUpdated: 2021-09-10T08:53:32.949Z
+responseTime: 6121
+lastUpdated: 2021-09-10T18:46:10.161Z
 startTime: Tue Apr 20 2021 17:07:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
