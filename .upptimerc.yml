@@ -448,6 +448,20 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+     - name: SSH 🇮🇩 Indonesia IDB 2
+       url: http://ids-4.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇺🇸 United States USD 1
+       url: http://uss-3.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
      - name: PPTP 🇸🇬 Singapore SGD 1
        url: http://sgp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
@@ -471,13 +485,6 @@ sites:
         - 500
      - name: PPTP 🇮🇩 Indonesia IDJ 1
        url: http://idp-2.opensvr.net/
-       icon: https://opentunnel.net/assets/img/ppp.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
-     - name: PPTP 🇹🇷 Turkey TRC 1
-       url: http://trp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
        expectedStatusCodes:
