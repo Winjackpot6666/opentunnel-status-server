@@ -462,6 +462,20 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+     - name: SSH 🇱🇺 Luxembourg LUF 1
+       url: http://lus-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇬🇧 United Kingdom UKD 1
+       url: http://uks-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
      - name: PPTP 🇸🇬 Singapore SGD 1
        url: http://sgp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
